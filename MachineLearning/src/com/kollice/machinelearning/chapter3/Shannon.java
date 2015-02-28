@@ -1,4 +1,4 @@
-package com.kollice.machinelearning.chapter6;
+package com.kollice.machinelearning.chapter3;
 
 import java.util.HashMap;
 import java.util.Iterator;
