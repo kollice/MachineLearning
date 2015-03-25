@@ -12,4 +12,8 @@ public class Logarithm {
 	public static double log10(double value) {
 		return log(value, 10.0);
 	}
+	
+	public static double ln(double value) {
+		return log(value, Math.E);
+	}
 }
